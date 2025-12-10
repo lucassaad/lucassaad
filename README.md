@@ -1,45 +1,44 @@
-# 👋 Olá! Eu sou o Lucas Saad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header" />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+profile+!" alt="Typing SVG" /> 
+  </a>
+</div>
+
+##
+
+👨‍🎓 Studying Computer Science at the University of Brasília - UnB    
 
 
-🎓 Estudante de **Ciência da Computação** na **Universidade de Brasília (UnB)**  
-💼 Estagiário em **Sistemas e Aplicações** 
+##
 
+### 🔧 Tools I Work With:
 
-### 🛠️ Tecnologias e Ferramentas
-
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucassaad&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaad&layout=compact&theme=default&hide_border=true)
-
----
-
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](INSIRA_SEU_LINK_AQUI)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white)](INSIRA_SEU_LINK_AQUI)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;
+</div>
 
 ---
-<!--
-**lucassaad/lucassaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Other Tools I Have Experience With:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
+</div>
+
+##
+
+### 📬 Contact Me
+
+<div>
+  <a href="mailto:lucassaadro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/lucas-saad-3125792a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
