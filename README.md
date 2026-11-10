@@ -1,6 +1,5 @@
 # Lucas Saad
-
-
+  
 <p align="center">
   <b>Computer Science Student @ University of Brasília (UnB)</b>
   <br/>
@@ -31,4 +30,5 @@ I'm a Computer Science student at the University of Brasília (UnB), interested 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+---
+<img align="center" src="koi/koi.gif" width="256" alt="My koi" />
