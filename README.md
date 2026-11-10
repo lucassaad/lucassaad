@@ -31,7 +31,4 @@ I'm a Computer Science student at the University of Brasília (UnB), interested 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-
-<p align="center">
-  <img src="koi.gif" width="280" alt="GitHub Koi" />
-</p>
+<img src="koi/koi.gif" width="256" alt="My koi" />
