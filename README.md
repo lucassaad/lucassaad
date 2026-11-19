@@ -5,7 +5,7 @@
 <p align="center">
   <b>Estudante de Ciência da Computação @ Universidade de Brasília (UnB)</b>
   <br/>
-  Engenharia de backend, agentes de IA e machine learning.
+  Backend, agentes de IA e machine learning.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  Gosto de construir software na interseção entre engenharia de backend e inteligência artificial.
+  Gosto de construir software na interseção entre backend e inteligência artificial.
 </p>
 
 <p align="center">
